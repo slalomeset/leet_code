@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_length_of_last_word.dir/test_lib.c.o -o test_length_of_last_word  ../../my_lib/src/liblength_of_last_word.a -lcmocka

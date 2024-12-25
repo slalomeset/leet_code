@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Application.dir/main.c.o -o Application  ../my_lib/src/liblength_of_last_word.a

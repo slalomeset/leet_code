@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblength_of_last_word.a CMakeFiles/length_of_last_word.dir/helper.c.o
+/usr/bin/ranlib liblength_of_last_word.a

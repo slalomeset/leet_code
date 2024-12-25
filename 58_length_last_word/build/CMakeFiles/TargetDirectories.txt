@@ -1,0 +1,15 @@
+/home/vlad/COURSES/leetCode/58_length_last_word/build/CMakeFiles/edit_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/CMakeFiles/rebuild_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/my_lib/CMakeFiles/edit_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/my_lib/CMakeFiles/rebuild_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/my_lib/src/CMakeFiles/length_of_last_word.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/my_lib/src/CMakeFiles/edit_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/my_lib/src/CMakeFiles/rebuild_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/test/CMakeFiles/edit_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/test/CMakeFiles/rebuild_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/test/src/CMakeFiles/test_length_of_last_word.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/test/src/CMakeFiles/edit_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/test/src/CMakeFiles/rebuild_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/app/CMakeFiles/Application.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/app/CMakeFiles/edit_cache.dir
+/home/vlad/COURSES/leetCode/58_length_last_word/build/app/CMakeFiles/rebuild_cache.dir
